@@ -7,3 +7,4 @@ joblib==1.5.3
 streamlit==1.56.0
 plotly==6.7.0
 requests==2.33.1
+fpdf2==2.8.3
